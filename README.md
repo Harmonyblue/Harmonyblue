@@ -1,4 +1,4 @@
-    POST_AUTOR_SELECTOR : ".post-autor-no-lg a",### Hi there 👋
+### Hi there 👋
 
 <!--
 **Harmonyblue/Harmonyblue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
